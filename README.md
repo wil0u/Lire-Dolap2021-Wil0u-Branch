@@ -14,10 +14,10 @@ Il faut exécuter le fichier `exp_LIRE_DOLAP.py`
 
 `
 
-## Pour l'expé single white black box les résultats attérissent dans le fichier :
+## Pour l'expé single white black box les résultats attérissent dans le fichier:
 * /temp/deuxieme_exp_result.csv
 
-## Pour l'expé double white black box les résultats attérissent dans le fichier : 
+## Pour l'expé double white black box les résultats attérissent dans le fichier: 
 * temp/double_whitebox_exp_ranknet_result.csv
 
 # Expé RANDOM/TOP/FLOP 
@@ -34,7 +34,7 @@ et mettre la deuxième variable de la function à la valeur :
 	*  `matrice_iid_top` pour scénario top
 	*  `matrice_iid_flop` pour scénario flop
 
-##Les fichiers de résultats
+## Les fichiers de résultats
 *Pour cette expé les fichiers de résultats attérissent au même niveau que les fichiers de code
 
 /!\ Attention : renommer les fichiers avec une extension en fonction du scénario, sinon ils seront écrasés et remplacé par les résultats de la prochaine exécution
