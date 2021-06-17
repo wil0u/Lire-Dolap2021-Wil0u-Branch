@@ -2,6 +2,15 @@
 
 Il faut exécuter le fichier `exp_LIRE_DOLAP.py`
 
+## Pour changer le nombre d'epoch du rank net 
+
+Il faut aller dans le fichier ranknet.py
+Ligne 72 :
+
+`def ranknet(X_train,ys_train,X_valid,ys_valid,nb_items,X_user_id,epochs=10,batch_size=16,n_sampling_combs=50):
+`
+Changer la valeur par défault et le tour est joué
+
 ## Pour lancer une expé décommenter l'expé en question dans le main :
 
 `experiment_white_black_box(U,sigma,Vt,user_means,labels,all_actual_ratings,iid_map)`
