@@ -30,6 +30,11 @@ Changer la valeur par défault et le tour est joué
 * temp/double_whitebox_exp_ranknet_result.csv
 
 # Expé RANDOM/TOP/FLOP 
+/!\ Attention : renommer les fichiers de résultats de cette expé avec une extension en fonction du scénario, sinon ils seront écrasés et remplacé par les résultats de la prochaine exécution
+
+
+
+
 ## Pour changer de scénario
 
 Dans la fonction "experiment_test_top_recommendation" 
@@ -45,8 +50,5 @@ et mettre la deuxième variable de la function à la valeur :
 
 ## Les fichiers de résultats
 *Pour cette expé les fichiers de résultats attérissent au même niveau que les fichiers de code
-
-/!\ Attention : renommer les fichiers avec une extension en fonction du scénario, sinon ils seront écrasés et remplacé par les résultats de la prochaine exécution
-
 
 
